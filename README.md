@@ -45,9 +45,10 @@
 
 ---
 
-### 🐍 Snake Game Contribution Graph
 
-![Snake animation](https://raw.githubusercontent.com/shyamatyagi/shyamatyagi/output/github-contribution-grid-snake.svg)
+<p align="center">
+
+![snake gif](https://github.com/shyamatyagi/shyamatyagi/blob/output/github-snake-dark.svg)
 
 ---
 
