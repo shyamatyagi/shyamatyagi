@@ -5,7 +5,7 @@
 
 <!-- Social Media Links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/shyamatyagi/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/shyamaatyagi/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/shyamaaaa_tyagi/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge" alt="Instagram" /></a>
   <a href="mailto:shyamatyagi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge" alt="Gmail" /></a>
 </p>
